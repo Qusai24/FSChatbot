@@ -1,0 +1,23 @@
+{
+  "name": "fs-chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "chatbot"
+  ],
+  "homepage": "https://github.com/Qusai24/FSChatbot#readme",
+  "bugs": {
+    "url": "https://github.com/Qusai24/FSChatbot/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qusai24/FSChatbot.git"
+  },
+  "license": "ISC",
+  "author": "Qusai24",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
